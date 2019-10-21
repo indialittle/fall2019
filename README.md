@@ -1,5 +1,5 @@
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/indialittle/biof509/fall2019/master?urlpath=lab/tree/notebooks/Index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/indialittle/fall2019/master?urlpath=lab/tree/notebooks/Index.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/biof509/fall2019/)
 
 
